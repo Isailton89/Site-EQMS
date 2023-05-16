@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter&display=swap');
+@import url(/css/inicial.css);
+@import url(/css/topicos.css);
+@import url(/css/comeco-projeto.css);
+@import url(/css/escopo.css);
+@import url(/css/pilares.css);
+@import url(/css/fluxo.css);
+@import url(/css/autores.css);
+@import url(/css/situacao.css);
+@import url(/css/rodape.css);
+
+
+:root {
+    --fonte-titulo:'Bebas Neue', cursive;
+    --fonte-texto:'Inter', sans-serif;
+    --cor-primaria: #EE6C4D;
+    --cor-secundaria:#F4845F;
+    --cor-terciaria: #ffffff;
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--fonte-texto);
+    font-size: 1.6rem;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-style: italic;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+    width: 100%;
+    background: #000000;
+    color: #ffffff;
+    font-size: 1.3rem;
+}

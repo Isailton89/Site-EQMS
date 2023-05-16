@@ -1,0 +1,17 @@
+.box-sitacao {
+    width: 100%;
+    height: 15rem;
+}
+
+.texto-sitacao {
+    width: 75rem;
+    text-align: center;
+    margin: 2rem auto;
+    font-size: 2rem;
+}
+
+.autor-sitacao {
+    margin-left: 50%;
+    font-style: italic;
+    font-size: 1.3rem;
+}

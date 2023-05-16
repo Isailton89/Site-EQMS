@@ -1,0 +1,83 @@
+.box-fluxo {
+    width: 100%;
+    background: var(--cor-primaria);
+    display: flex;
+    flex-direction: column;
+}
+
+.box-icones {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-fluxo {
+    width: 5rem;
+    padding: 2rem 0; 
+}
+
+.caixa-ordenada1 {
+    width: 15rem;
+    background: var(--cor-terciaria);
+    border-radius: 0 0 10rem 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    height: 18rem;
+}
+
+.caixa-ordenada2 {
+   width: 15rem;
+   background: var(--cor-terciaria);
+   border-radius: 0 0 10rem 10rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+   text-align: center;
+   height: 25rem; 
+}
+
+.caixa-ordenada3 {
+   width: 15rem;
+   background: var(--cor-terciaria);
+   border-radius: 0 0 10rem 10rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start; 
+   text-align: center;
+   height: 35rem;
+}
+
+.caixa-ordenada4 {
+   width: 15rem;
+   background: var(--cor-terciaria);
+   border-radius: 0 0 10rem 10rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+   text-align: center;
+   height: 45rem; 
+}
+
+.caixa-ordenada5 {
+   width: 15rem;
+   background: var(--cor-terciaria);
+   border-radius: 0 0 10rem 10rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start; 
+   text-align: center;
+   height: 55rem;
+}
+
+.paragrafo-fluxo {
+    text-align: center;
+    font-size: 3rem;
+    padding: 3rem;
+    transform: translate(0, -10rem);
+}

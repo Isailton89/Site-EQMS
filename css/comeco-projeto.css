@@ -1,0 +1,20 @@
+.comeco-projeto {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background: var(--cor-primaria);
+    padding: 7rem 0;
+}
+
+.img-criacao {
+    width: 50rem;
+    border-radius: 5rem;
+}
+
+.texto-criacao {
+    width: 60rem;
+    font-size: 3rem;
+    font-style: italic;
+    margin: auto 0;
+    color: var(--cor-terciaria);
+}

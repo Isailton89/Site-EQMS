@@ -1,0 +1,48 @@
+.inicial {
+    display: flex;
+    background: var(--cor-primaria);
+    color: var(--cor-terciaria);
+    font-family: var(--fonte-titulo);
+    height: 50rem;
+    padding: 2rem 0 2rem 2rem;
+    align-items: center;
+}
+
+.box-logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo-1 {
+    font-size: 9.6rem;
+}
+
+.titulo-2 {
+   font-size: 13rem; 
+}
+
+.logo-stefanini {
+    width: 55rem;
+    height: 13.9rem;
+}
+
+.img-mais {
+    width: 20rem;
+    transform: translate(15rem, 0);
+}
+
+.box-img {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding-top: 7rem;
+}
+
+.img-gisele {
+    width: 40rem;
+}
+
+.nome-gisele{
+    padding: 1rem 0 0 10rem;
+    font-size: 2rem;
+}

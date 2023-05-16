@@ -1,0 +1,20 @@
+.box-autorres {
+    background: var(--cor-secundaria);
+    width: 100%;
+    font-size: 2rem;
+    color: var(--cor-terciaria);
+}
+
+.img-autorres{
+    width: 20rem;
+    float: right;
+    margin: 2rem 2rem;
+}
+
+.box-texto{
+    padding: 4rem 4rem;
+}
+
+.titulo-autorres {
+    line-height: 6rem;
+}

@@ -1,0 +1,20 @@
+.pilares {
+    width: 100%;
+}
+
+.paragrafo-pilares {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.icones-pilares{
+    display: flex;
+    padding: 3rem 0;
+    justify-content: space-around;
+}
+
+.img-pilares {
+    width: 20rem;
+}

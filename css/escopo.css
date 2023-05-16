@@ -1,0 +1,25 @@
+.escopo {
+    background-color: var(--cor-secundaria);
+    width: 100%;
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.lista-escopo {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 45rem;
+    margin: 0 auto;
+}
+
+.img-escopo {
+    width: 5rem;
+    transform: translate(0, 1.5rem);
+    margin-right: 1rem;
+}
+
+.itens-escopo {
+    line-height: 5rem;
+    font-size: 2rem;
+}
